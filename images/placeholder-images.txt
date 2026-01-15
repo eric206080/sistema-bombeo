@@ -1,0 +1,31 @@
+NOTA: Imágenes requeridas para la landing page
+
+Coloca las siguientes imágenes en esta carpeta:
+
+1. hero-pumps.jpg (1200x800px)
+   - Bomba industrial en operación
+   - Equipo técnico trabajando
+   - Instalación profesional
+
+2. sector-industria.jpg (800x600px)
+   - Aplicación industrial
+   - Manufactura, proceso
+
+3. sector-agro.jpg (800x600px)
+   - Sistema de riego
+   - Campo agrícola
+
+4. sector-ptar.jpg (800x600px)
+   - Planta de tratamiento
+   - Bombas sumergibles
+
+5. sector-proyectos.jpg (800x600px)
+   - Construcción
+   - Proyecto en ejecución
+
+FORMATO RECOMENDADO:
+- JPG optimizado (< 200KB cada una)
+- Resolución: 72-96 DPI
+- Comprimir con TinyPNG.com
+
+El logo.png ya está incluido.
