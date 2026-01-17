@@ -1,5 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ingdelca.com/sitemap.xml
-
+Sitemap: https://sistema-bombeo.ingdelca.com/sitemap.xml
